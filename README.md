@@ -2,15 +2,16 @@
 Machine Learning based Vehicle Performance Analyzer
 
 
-### Technology: Applied Data Science
+### Technology  : Applied Data Science
+### Team ID     : PNT2022TMID12635
 ### Team Members:
 
 |NAME               | ROLL NUMBER.    | DEPARTMENT  | ASSIGNMENT | 
 |------------------:|:---------------:|:-----------:|:----------:|
 |ADITYA SRIRAM      |  718019Z304     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/Aditya%20Sriram)   |
-|BHARATH S          |  718019Z308     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/Barath%20S)   | 
+|BHARATH S          |  718019Z308     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/BHARATH%20S)   | 
 |K SANDEEP KUMAR    |  718019Z323     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/K%20Sandeep%20Kumar%20-%20Team%20Lead)   |
-|SURTIK S           |  718019Z351     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/S%20Surtik)   |
+|SURTIK S           |  718019Z351     |   CSE       | [LINK](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments/SURTIK%20S)   |
 
 
 ### Project Desciption:
@@ -22,14 +23,13 @@ The performance analysis of the car is based on the engine type, no of engine cy
 ### Technical Architecture:
 ![image](https://user-images.githubusercontent.com/88080609/193425222-850f5dd3-0daa-4ef4-a4e4-25f24628de34.png)
 
-
 ### Tasks:
-* [Assignments](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Assignments)
+* [Assignments](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments)
 * Project Design & Planning
     - Ideation Phase
-        - [x] [Literature Survey]()
-        - [x] [Emapthy Map]()
-        - [x] [Ideation]()
+        - [x] [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey%20-%20Machine%20Learning%20based%20Vehicle%20Performance%20Analyzer.pdf)
+        - [x] [Emapthy Map](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
+        - [x] [Ideation](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Ideation%20Map%20-%20Machine%20Learning%20based%20Vehicle%20Performance%20Analyzer.pdf)
     - Project Design Phase 1
         - [] [Proposed Solution]()
         - [] [Problem Solution Fit]()
