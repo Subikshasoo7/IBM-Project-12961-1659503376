@@ -20,9 +20,7 @@ The performance analysis of the car is based on the engine type, no of engine cy
 
 
 ### Technical Architecture:
-<p align="center">
- <img scr= "https://user-images.githubusercontent.com/88080609/193425222-850f5dd3-0daa-4ef4-a4e4-25f24628de34.png">
-</p>
+![image](https://user-images.githubusercontent.com/88080609/193425222-850f5dd3-0daa-4ef4-a4e4-25f24628de34.png)
 
 ### Tasks:
 * [Assignments](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments)
