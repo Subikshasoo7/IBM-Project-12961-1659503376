@@ -24,12 +24,12 @@ The performance analysis of the car is based on the engine type, no of engine cy
 
 
 ### Tasks:
-* [Assignments](https://github.com/IBM-EPBL/IBM-Project-23359-1659880124/tree/main/Assignments)
+* [Assignments](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments)
 * Project Design & Planning
     - Ideation Phase
-        - [x] [Literature Survey]()
-        - [x] [Emapthy Map]()
-        - [x] [Ideation]()
+        - [x] [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey%20-%20Machine%20Learning%20based%20Vehicle%20Performance%20Analyzer.pdf)
+        - [x] [Emapthy Map](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
+        - [x] [Ideation](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Ideation%20Map%20-%20Machine%20Learning%20based%20Vehicle%20Performance%20Analyzer.pdf)
     - Project Design Phase 1
         - [] [Proposed Solution]()
         - [] [Problem Solution Fit]()
