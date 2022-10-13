@@ -30,11 +30,14 @@ The performance analysis of the car is based on the engine type, no of engine cy
         - [x] [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey%20-%20Machine%20Learning%20based%20Vehicle%20Performance%20Analyzer.pdf)
         - [x] [Emapthy Map](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
         - [x] [Ideation](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Ideation%20Map%20-%20Machine%20Learning%20based%20Vehicle%20Performance%20Analyzer.pdf)
-    - Project Design Phase 1
+    - Project Design Phase I
         - [x] [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Proposed%20Solution_PNT2022TMID12635.docx.pdf)
         - [x] [Problem Solution Fit](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Solution%20fit_PNT2022TMID12635.pdf)
         - [x] [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/System-Architecture_PNT2022TMID12635.pdf)
-    - Project Design Phase 2
+    - Project Design Phase II
+        - [] [Customer Journey Map]()
+        - [] [Dataflow Diagrams and User Stories]()
+        - [] [Solution Requirements]()
     
 
 
