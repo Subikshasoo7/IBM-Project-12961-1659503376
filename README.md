@@ -25,7 +25,7 @@ The performance analysis of the car is based on the engine type, no of engine cy
 
 ### Tasks:
 * [Assessments](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments)
-* Pre Development
+* Product Design and Planning
     - Ideation Phase
         - [x] [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey%20-%20Machine%20Learning%20based%20Vehicle%20Performance%20Analyzer.pdf)
         - [x] [Emapthy Map](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
