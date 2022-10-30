@@ -27,16 +27,16 @@ The performance analysis of the car is based on the engine type, no of engine cy
 * [Assessments](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/tree/main/Assessments)
 * Product Design and Planning
     - Ideation Phase
-        - [x] [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey%20-%20Machine%20Learning%20based%20Vehicle%20Performance%20Analyzer.pdf)
-        - [x] [Emapthy Map](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
-        - [x] [Ideation](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Ideation%20Map%20-%20Machine%20Learning%20based%20Vehicle%20Performance%20Analyzer.pdf)
+        - [x] [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/PNT2022TMID12635%20-%20Literature%20Survey.pdf)
+        - [x] [Emapthy Map](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/PNT2022TMID12635%20-%20Empathy%20Map.pdf)
+        - [x] [Ideation](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/PNT2022TMID12635%20-%20Ideation%20Map.pdf)
     - Project Design Phase I
-        - [x] [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Proposed%20Solution_PNT2022TMID12635.docx.pdf)
-        - [x] [Problem Solution Fit](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Solution%20fit_PNT2022TMID12635.pdf)
-        - [x] [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/System-Architecture_PNT2022TMID12635.pdf)
+        - [x] [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/PNT2022TMID12635%20-%20Proposed%20Solution.pdf)
+        - [x] [Problem Solution Fit](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/PNT2022TMID12635%20-%20Solution%20Fit.pdf)
+        - [x] [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/PNT2022TMID12635%20-%20System%20Architecture.pdf)
     - Project Design Phase II
-        - [x] [Customer Journey Map](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Pre-Development/Project%20Design%20Phase%20II/PNT2022TMID12635%20-%20Customer%20Journey%20Map.pdf)
-        - [x] [Dataflow Diagrams and User Stories](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Pre-Development/Project%20Design%20Phase%20II/PNT2022TMID12635%20-%20DataFlow%20Diagram%20And%20User%20Stories.pdf)
-        - [x] [Solution Requirements](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Pre-Development/Project%20Design%20Phase%20II/PNT2022TMID12635-%20Solution_Requirements.pdf)
-        - [x] [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Pre-Development/Project%20Design%20Phase%20II/PNT2022TMID12635-Technology%20Architecture.pdf)
+        - [x] [Customer Journey Map](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/PNT2022TMID12635%20-%20Customer%20Journey%20Map.pdf)
+        - [x] [Dataflow Diagrams and User Stories](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/PNT2022TMID12635%20-%20DataFlow%20Diagram%20And%20User%20Stories.pdf)
+        - [x] [Solution Requirements](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/PNT2022TMID12635-%20Solution_Requirements.pdf)
+        - [x] [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-12961-1659503376/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/PNT2022TMID12635-Technology%20Architecture.pdf)
 
